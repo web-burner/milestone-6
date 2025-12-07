@@ -232,3 +232,68 @@ for (let props in employee) {
   console.log(props);
   console.log(employee[props]);
 }
+
+
+
+
+✅ Beginner Tasks (No Hints, No Answers)
+
+1️⃣ const / let / var
+	1.	Declare a variable with let, update its value two times, and print all three values.
+	2.	Declare a constant object using const. Try modifying one property and print the result.
+	3.	Create a variable using var and access it before declaring it.
+
+⸻
+
+2️⃣ Default Parameters
+	4.	Create a function that takes 3 parameters but sets default values for all of them.
+	5.	Call the function by passing only one argument and print the output.
+
+⸻
+
+3️⃣ Template Literals (``)
+	6.	Using template literals, print a 3-line message.
+	7.	Write a function that returns a sentence using template literals with embedded variables.
+
+⸻
+
+4️⃣ Function Declaration / Expression / Arrow Function
+	8.	Create the same add() function in three ways:
+	•	function declaration
+	•	function expression
+	•	arrow function
+	9.	Write an arrow function that takes one parameter and returns a message.
+	10.	Convert a normal function to an arrow function.
+
+⸻
+
+5️⃣ Spread Operator
+	11.	Copy an array using the spread operator and add 3 new values after it.
+	12.	Find the maximum number from an array using Math.max() with spread.
+	13.	Copy an object with spread and add two new properties.
+
+⸻
+
+6️⃣ Destructuring
+	14.	Destructure an object with name, age, country, and profession.
+	15.	Destructure an array of 5 values into 3 variables.
+	16.	Destructure an object and rename the variables using alias.
+
+⸻
+
+7️⃣ Object Methods
+	17.	Create an object and print:
+
+	•	keys
+	•	values
+	•	entries
+
+	18.	Delete a property from an object and print the result.
+	19.	Update an object’s property and add a new property.
+	20.	Use Object.freeze() on an object and try modifying it.
+	21.	Use Object.seal() on an object and try deleting and adding properties.
+
+⸻
+
+8️⃣ Loop Through Object
+	22.	Loop through an object using for...in and print each key/value pair.
