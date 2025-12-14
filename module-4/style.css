@@ -1,0 +1,28 @@
+body{
+    padding: 10px;
+    margin: 0;
+    box-sizing: border-box;
+}
+#post-container{
+    display: flex;
+    flex-wrap: wrap;
+}
+#toDo-card{
+    width: 250px;
+    height: auto;
+    padding: 20px;
+    margin: 10px;
+    background-color: rgba(244, 243, 245, 0.532);
+    
+    border-radius: 10px;
+    box-shadow: 3px 3px 3px  3px gray;
+}
+#toDo-id{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.para{
+    font-size: 20px;
+    font-weight: 500;
+}
